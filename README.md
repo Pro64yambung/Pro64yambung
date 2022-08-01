@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pro Yambung
 - 👀 I’m interested in Linux, programming and guitar.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning devops and coding generally
 - 📫 You can reach me on 
 -     {will update later}
 
