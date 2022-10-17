@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Pro Yambung
-- 👀 I’m interested in Linux, programming and guitar.
-- 🌱 I’m currently learning devops and coding generally
+- 👋 Hi, I’m @Rohan Kshetrimayum 
+- 👀 I’m interested in IT.
+- 🌱 I’m currently learning : 
+       Linux, Git & GitHub, Cloud, Devops and back-end.
 - 📫 You can reach me on 
 -     {will update later}
 
-<!---
-Pro64yambung/Pro64yambung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
